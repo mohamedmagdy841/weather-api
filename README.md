@@ -62,4 +62,15 @@ This project is fully containerized using **Docker** and **Docker Compose** to e
 
 - The default endpoint for accessing the weather form is configured to be `http://localhost:8080/weather`.
 
-## Project Demo
+## Project Demo Api
+
+- Response time before caching 1841ms.
+- Response time after caching 246ms.
+
+https://github.com/user-attachments/assets/67748d31-6afb-4ab9-8ada-de556c39f4a9
+
+## Project Demo Web
+
+https://github.com/user-attachments/assets/a90d8eb9-143b-4c86-9a15-49159a96e9ee
+
+
